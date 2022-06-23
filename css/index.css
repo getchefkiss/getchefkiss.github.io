@@ -19,4 +19,7 @@ h1 {
     font-size: 35px;
 }
 
-.clr-brand { color: #9C7EDF; }
+.clr-brand { 
+    color: #9C7EDF;
+    font-style: italic; 
+}
