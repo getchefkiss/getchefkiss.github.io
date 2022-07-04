@@ -7,19 +7,10 @@ body {
     font-weight: 600;
     font-size: 21px;
 
-    color: #FCFCFF;
-    background: #0E0E1F;
+    color: black;
+    background: white;
 
     text-align: center;
-}
 
-h1 {
-    font-family: 'Merriweather', serif;
-    font-weight: 900;
-    font-size: 35px;
-}
-
-.clr-brand { 
-    color: #9C7EDF;
-    font-style: italic; 
+    height: 100%;
 }
